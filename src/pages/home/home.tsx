@@ -1,7 +1,8 @@
 import React from 'react';
-
+import './styles.css'
 const Home: React.FC = () => {
     return (
+        
         <div style={{ padding: '20px' }}>
             <h1>Bem-vindo ao ToDoList</h1>
             <p>Um ToDoList é uma ferramenta simples que ajuda a organizar suas tarefas diárias. 
